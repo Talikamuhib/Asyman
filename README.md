@@ -1,4 +1,4 @@
-## Asyman - A Pacman Game for Aseela
+# Asyman - A Pacman Game for Aseela
 Welcome to Asyman - a special version of Pacman customized for my niece, Aseela! 🎮
 
 # Introduction
